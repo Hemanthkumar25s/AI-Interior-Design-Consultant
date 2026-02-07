@@ -1,0 +1,7 @@
+{
+  "name": "AI Interior Design Consultant",
+  "description": "An interactive room makeover application that uses Gemini AI to reimagine spaces, provide visual comparisons, and offer design refinements through a chat interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
